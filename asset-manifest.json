@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/code-challenge/static/css/main.2310f232.chunk.css",
-    "main.js": "/code-challenge/static/js/main.f0deb43f.chunk.js",
-    "main.js.map": "/code-challenge/static/js/main.f0deb43f.chunk.js.map",
+    "main.css": "/code-challenge/static/css/main.338ce712.chunk.css",
+    "main.js": "/code-challenge/static/js/main.0a60c5c9.chunk.js",
+    "main.js.map": "/code-challenge/static/js/main.0a60c5c9.chunk.js.map",
     "runtime-main.js": "/code-challenge/static/js/runtime-main.b62dbefb.js",
     "runtime-main.js.map": "/code-challenge/static/js/runtime-main.b62dbefb.js.map",
     "static/js/2.22d16510.chunk.js": "/code-challenge/static/js/2.22d16510.chunk.js",
@@ -10,13 +10,20 @@
     "static/js/3.596f1548.chunk.js": "/code-challenge/static/js/3.596f1548.chunk.js",
     "static/js/3.596f1548.chunk.js.map": "/code-challenge/static/js/3.596f1548.chunk.js.map",
     "index.html": "/code-challenge/index.html",
-    "static/css/main.2310f232.chunk.css.map": "/code-challenge/static/css/main.2310f232.chunk.css.map",
-    "static/js/2.22d16510.chunk.js.LICENSE.txt": "/code-challenge/static/js/2.22d16510.chunk.js.LICENSE.txt"
+    "static/css/main.338ce712.chunk.css.map": "/code-challenge/static/css/main.338ce712.chunk.css.map",
+    "static/js/2.22d16510.chunk.js.LICENSE.txt": "/code-challenge/static/js/2.22d16510.chunk.js.LICENSE.txt",
+    "static/media/Product_1.ed0b8900.jpg": "/code-challenge/static/media/Product_1.ed0b8900.jpg",
+    "static/media/Product_3.804c1d88.jpg": "/code-challenge/static/media/Product_3.804c1d88.jpg",
+    "static/media/Product_4.f1f1f13a.jpg": "/code-challenge/static/media/Product_4.f1f1f13a.jpg",
+    "static/media/Product_5.60dc72c8.jpg": "/code-challenge/static/media/Product_5.60dc72c8.jpg",
+    "static/media/Product_6.148785b2.jpg": "/code-challenge/static/media/Product_6.148785b2.jpg",
+    "static/media/Product_7.62941a0e.jpg": "/code-challenge/static/media/Product_7.62941a0e.jpg",
+    "static/media/Product_8.70ffe838.jpg": "/code-challenge/static/media/Product_8.70ffe838.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b62dbefb.js",
     "static/js/2.22d16510.chunk.js",
-    "static/css/main.2310f232.chunk.css",
-    "static/js/main.f0deb43f.chunk.js"
+    "static/css/main.338ce712.chunk.css",
+    "static/js/main.0a60c5c9.chunk.js"
   ]
 }
